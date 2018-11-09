@@ -3,7 +3,7 @@
   <h>
 This repository contains the code for SSL Course Project assigned to my team.
   </h>
-  <body>
+  <body><br>
   <b> Project Title: </b> IIT Dharwad Contact Directory <br>
   <b>Team Members:</b> K. Sai Anuroop and Mohan Sai Kolluru <br>
   <b>Project Nature: </b>Website for database storage and viewing <br>
