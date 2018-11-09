@@ -8,7 +8,7 @@ This repository contains the code for SSL Course Project assigned to my team.
   <b>Team Members:</b> K. Sai Anuroop and Mohan Sai Kolluru <br>
   <b>Project Nature: </b>Website for database storage and viewing <br>
   <b>Languages used: </b>HTML, PHP, SQL, JavaScript, Bootstrap Library <br><br>
-//Estimated Duration of Project: One month
+##Estimated Duration of Project: One month
 
 Click <a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/sslpro.pdf">here</a> to view project report.
 
