@@ -1,4 +1,4 @@
-# iitdh_contact_directory
+# IIT DH Contact Directory
 <html>
   <h>
 This repository contains the code for SSL Course Project assigned to my team.
