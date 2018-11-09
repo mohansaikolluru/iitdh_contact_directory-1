@@ -10,7 +10,8 @@ This repository contains the code for SSL Course Project assigned to my team.
   <b>Languages used: </b>HTML, PHP, SQL, JavaScript, Bootstrap Library <br><br>
 Estimated Duration of Project: One month
 
-Please click on this link to view report on the project.
-https://github.com/ksanu1998/iitdh_contact_directory/blob/master/sslpro.pdf
+Please <a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/sslpro.pdf">click</a>  on this link to view report on the project.
+
+
 </body>
 </html>
