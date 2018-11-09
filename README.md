@@ -8,3 +8,4 @@ Languages used: HTML, PHP, SQL, JavaScript, Bootstrap Library <br>
 Estimated Duration of Project: One month
 
 Please click on this link to view report on the project.
+https://github.com/ksanu1998/iitdh_contact_directory/blob/master/sslpro.pdf
