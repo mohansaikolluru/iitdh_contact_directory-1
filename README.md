@@ -12,7 +12,7 @@ This repository contains the code for SSL Course Project assigned to my team.
 Click on the following links to view:<br>
 <a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/sslpro.pdf">Project Report</a><br>
 <a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/documentation.pdf">Project Documentation</a><br>
-<a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/documentation.pdf">Installation Guide</a><br>
+<a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/README.txt">Installation Guide</a><br>
 <a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/documentation.pdf">To-do List</a>
 </body>
 </html>
