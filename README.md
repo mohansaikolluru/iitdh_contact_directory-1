@@ -13,7 +13,7 @@ Click on the following links to view:<br>
 <a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/sslpro.pdf">Project Report</a><br>
 <a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/documentation.pdf">Project Documentation</a><br>
 <a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/README.txt">Installation Guide</a><br>
-<a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/README.txt">Source Code</a><br>
+<a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/iitdhcd-new.zip">Source Code</a><br>
 <a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/to_do.txt">To-do List</a>
 </body>
 </html>
