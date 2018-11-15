@@ -11,7 +11,7 @@ This repository contains the code for SSL Course Project assigned to my team.
 <!--Estimated Duration of Project: One month-->
 
 Click <a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/sslpro.pdf">here</a> to view project report.
-
+Click <a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/sslpro.pdf">here</a> to view project documentation.
 
 </body>
 </html>
