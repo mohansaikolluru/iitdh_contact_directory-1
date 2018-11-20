@@ -1,5 +1,0 @@
-1) Google authentication to be added instead of conventional login.
-2) Tick-box feature to be provided for modification of records.
-3) Users should be able to modify only their records.
-4) Drop-down suggestions to be added in Search feature.
-5) Website needs to be made more secure, if possible.
