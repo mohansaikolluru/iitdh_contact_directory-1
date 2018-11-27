@@ -14,6 +14,6 @@ Click on the following links to view:<br>
 <a href="https://github.com/mohansaikolluru/iitdh_contact_directory-1/blob/master/documentation.pdf">Project Documentation</a><br>
 <a href="https://github.com/mohansaikolluru/iitdh_contact_directory-1/blob/master/README.txt">Installation Guide</a><br>
 <a href="https://github.com/mohansaikolluru/iitdh_contact_directory-1/blob/master/iitdhcd-new.tgz">Source Code</a><br>
-<a href="https://github.com/ksanu1998/iitdh_contact_directory/blob/master/to_do.txt">To-do List</a><br>
+<a href="https://github.com/mohansaikolluru/iitdh_contact_directory-1/blob/master/to_do.txt">To-do List</a><br>
 </body>
 </html>
